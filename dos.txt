@@ -3,5 +3,5 @@
 dos
 dos en master
 =======
-dos en desarrollo
+dos en desarrollos
 >>>>>>> desarrollo
